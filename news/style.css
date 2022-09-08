@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+body a{
+    text-decoration: none;
+    color: black;
+
+}
+li{
+    text-decoration: none;
+    display: inline;
+}
+.nav{
+    text-align: center;
+    font-size: 1.5em;
+    
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+body a{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.nav{
+    word-spacing: 8px;
+    text-align: center;
+    font-size: 1.5em;
+}
+li{
+    display: inline;
+    text-decoration: none;
+}
+.welcome{
+    background-color: black;
+    color: azure;
+    padding: 150px;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+    background-color: pink;
+    padding: .5px;
+}
+footer ul{
+    word-spacing: 8px;
+}
